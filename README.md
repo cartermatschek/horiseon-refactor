@@ -1,4 +1,4 @@
-# module-1-challenge
+# Horiseon Refactored
 Contains Code for UTA Module 1 Challenge
 
 ## Description
